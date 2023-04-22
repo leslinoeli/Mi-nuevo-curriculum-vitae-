@@ -1,0 +1,15 @@
+/* Frame 6 */
+
+.button {
+background: 'red';
+}
+
+.menu {
+position: absolute;
+width: 1280px;
+height: 94px;
+left: 0px;
+top: 0px;
+
+background: #6E0D58;
+}
